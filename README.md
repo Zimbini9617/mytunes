@@ -8,7 +8,7 @@ Creating my tune project
 
 ## Live View
 
-[My-Tune]
+[My-Tune](https://hilarious-cat-97458a.netlify.app/)
 
 ## Built With
 
